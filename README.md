@@ -88,17 +88,17 @@ Matplotlib
 MNIST Dataset
 
 # Advantages
-High accuracy
-Beginner-friendly project
-Strong foundation for computer vision
-Real-world relevance
+High accuracy,
+Beginner-friendly project,
+Strong foundation for computer vision,
+Real-world relevance,
 
 # Limitations
-Recognizes only digits (0–9)
-Performance may reduce for very messy handwriting
+Recognizes only digits (0–9),
+Performance may reduce for very messy handwriting,
 
 # Future Scope
-Alphabet (A–Z) recognition
-Real-time camera-based recognition
-Web or mobile app deployment
-Use of advanced CNN architectures
+Alphabet (A–Z) recognition,
+Real-time camera-based recognition,
+Web or mobile app deployment,
+Use of advanced CNN architectures,
